@@ -1,0 +1,5568 @@
+[
+    {
+        "image_index": 6090,
+        "qid": "D15",
+        "question_string": "What is the percentage of undernourished male children in 2008 ?",
+        "answer_bbox": [
+            {
+                "y": 58,
+                "x": 69,
+                "w": 847,
+                "h": 68
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 5.800000190734861,
+        "answer_id": 4023,
+        "type": "hbar",
+        "question_id": 102100
+    },
+    {
+        "image_index": 16090,
+        "qid": "D14",
+        "question_string": "What is the contributing family workers in Slovenia ?",
+        "answer_bbox": [
+            {
+                "y": 357,
+                "x": 136,
+                "w": 402,
+                "h": 15
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 4.800000190734862,
+        "answer_id": 43109,
+        "type": "hbar",
+        "question_id": 230626
+    },
+    {
+        "image_index": 8947,
+        "qid": "D5",
+        "question_string": "What is the label of the 4th group of bars from the top ?",
+        "answer_bbox": {
+            "y": 414,
+            "x": 46,
+            "w": 136.953125,
+            "h": 14
+        },
+        "template": "data_retrieval",
+        "answer": "Europe(developing only)",
+        "answer_id": 51649,
+        "type": "hbar",
+        "question_id": 95242
+    },
+    {
+        "image_index": 13428,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 662,
+                "x": 59,
+                "w": 6.109375,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 187,
+                "w": 12.21875,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 319,
+                "w": 12.21875,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 450,
+                "w": 12.21875,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 581,
+                "w": 12.21875,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 713,
+                "w": 12.21875,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 844,
+                "w": 12.21875,
+                "h": 14
+            },
+            {
+                "y": 662,
+                "x": 975,
+                "w": 12.21875,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "hbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 7758,
+        "qid": "M5",
+        "question_string": "Across all countries, what is the minimum percentage of unemployed males in in 1991 ?",
+        "answer_bbox": {
+            "y": 548,
+            "x": 172,
+            "w": 210,
+            "h": 32
+        },
+        "template": "min_max",
+        "answer": 5.0,
+        "answer_id": 53,
+        "type": "hbar",
+        "question_id": 120230
+    },
+    {
+        "image_index": 29784,
+        "qid": "M6",
+        "question_string": "In which year was the logistics performance index in Venezuela maximum?",
+        "answer_bbox": {
+            "y": 641,
+            "x": 654,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2014",
+        "answer_id": 281,
+        "type": "vbar",
+        "question_id": 386909
+    },
+    {
+        "image_index": 7793,
+        "qid": "D15",
+        "question_string": "What is the total arms import in Albania in 1971 ?",
+        "answer_bbox": {
+            "y": 180,
+            "x": 69,
+            "w": 67,
+            "h": 15
+        },
+        "template": "data_retrieval",
+        "answer": 330000000.0,
+        "answer_id": 70469,
+        "type": "hbar",
+        "question_id": 120813
+    },
+    {
+        "image_index": 24701,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 583,
+                "x": 43,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 477,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 371,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 265,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 159,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 53,
+                "x": 29,
+                "w": 20.953125,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "vbar",
+        "question_id": 26
+    },
+    {
+        "image_index": 26729,
+        "qid": "D4",
+        "question_string": "What is the label of the 2nd group of bars from the left ?",
+        "answer_bbox": {
+            "y": 548,
+            "x": 495,
+            "w": 14,
+            "h": 42.15625
+        },
+        "template": "data_retrieval",
+        "answer": "Canada",
+        "answer_id": 51465,
+        "type": "vbar",
+        "question_id": 300621
+    },
+    {
+        "image_index": 18834,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 623,
+                "x": 112,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 534,
+                "x": 42,
+                "w": 76.828125,
+                "h": 14
+            },
+            {
+                "y": 445,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 356,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 267,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 178,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 89,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "line",
+        "question_id": 26
+    },
+    {
+        "image_index": 30035,
+        "qid": "M7",
+        "question_string": "In which year was the CPIA rating in Tajikistan minimum?",
+        "answer_bbox": {
+            "y": 601,
+            "x": 134,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2006",
+        "answer_id": 377,
+        "type": "vbar",
+        "question_id": 390157
+    },
+    {
+        "image_index": 9117,
+        "qid": "M7",
+        "question_string": "In which year was the earnings from trade in Canada minimum?",
+        "answer_bbox": {
+            "y": 354,
+            "x": 30,
+            "w": 27.9375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "2009",
+        "answer_id": 440,
+        "type": "hbar",
+        "question_id": 140956
+    },
+    {
+        "image_index": 19126,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 677.1525,
+            "x": 297,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "line",
+        "question_id": 34
+    },
+    {
+        "image_index": 6938,
+        "qid": "M5",
+        "question_string": "Across all countries, what is the minimum adolescent fertility rate ?",
+        "answer_bbox": {
+            "y": 553,
+            "x": 161,
+            "w": 88,
+            "h": 18
+        },
+        "template": "min_max",
+        "answer": 24.6996,
+        "answer_id": 63424,
+        "type": "hbar",
+        "question_id": 106744
+    },
+    {
+        "image_index": 30391,
+        "qid": "S12",
+        "question_string": "How many bars are there on the 1st tick from the right ?",
+        "answer_bbox": [
+            {
+                "y": 456,
+                "x": 693,
+                "w": 90,
+                "h": 6
+            },
+            {
+                "y": 439,
+                "x": 783,
+                "w": 90,
+                "h": 22
+            },
+            {
+                "y": 461,
+                "x": 872,
+                "w": 90,
+                "h": 0
+            },
+            {
+                "y": 386,
+                "x": 962,
+                "w": 90,
+                "h": 76
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "vbar",
+        "question_id": 300632
+    },
+    {
+        "image_index": 22909,
+        "qid": "D1",
+        "question_string": "What does the 2nd bar from the right in Middle income represents ?",
+        "answer_bbox": {
+            "y": 303,
+            "x": 927,
+            "w": 38,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Goods",
+        "answer_id": 51355,
+        "type": "vbar",
+        "question_id": 305520
+    },
+    {
+        "image_index": 9768,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 600,
+                "x": 161,
+                "w": 714,
+                "h": 19
+            },
+            {
+                "y": 475,
+                "x": 161,
+                "w": 857,
+                "h": 19
+            },
+            {
+                "y": 350,
+                "x": 161,
+                "w": 847,
+                "h": 19
+            },
+            {
+                "y": 225,
+                "x": 161,
+                "w": 929,
+                "h": 19
+            },
+            {
+                "y": 100,
+                "x": 161,
+                "w": 735,
+                "h": 19
+            },
+            {
+                "y": 581,
+                "x": 161,
+                "w": 173,
+                "h": 19
+            },
+            {
+                "y": 456,
+                "x": 161,
+                "w": 929,
+                "h": 19
+            },
+            {
+                "y": 331,
+                "x": 161,
+                "w": 806,
+                "h": 19
+            },
+            {
+                "y": 206,
+                "x": 161,
+                "w": 949,
+                "h": 19
+            },
+            {
+                "y": 81,
+                "x": 161,
+                "w": 755,
+                "h": 19
+            },
+            {
+                "y": 562,
+                "x": 161,
+                "w": 204,
+                "h": 19
+            },
+            {
+                "y": 437,
+                "x": 161,
+                "w": 959,
+                "h": 19
+            },
+            {
+                "y": 312,
+                "x": 161,
+                "w": 816,
+                "h": 19
+            },
+            {
+                "y": 187,
+                "x": 161,
+                "w": 959,
+                "h": 19
+            },
+            {
+                "y": 62,
+                "x": 161,
+                "w": 490,
+                "h": 19
+            }
+        ],
+        "template": "structural",
+        "answer": 15,
+        "answer_id": 1825,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 21043,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 540,
+            "x": 803,
+            "w": 166,
+            "h": 109
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "line",
+        "question_id": 29
+    },
+    {
+        "image_index": 15693,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 629.8074999999999,
+            "x": 357,
+            "w": 411.421875,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Debt(% of exports of goods, services and primary income)",
+        "answer_id": 13239,
+        "type": "hbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 31115,
+        "qid": "D0",
+        "question_string": "What does the 3rd bar from the left in 2014 represents ?",
+        "answer_bbox": {
+            "y": 351,
+            "x": 898,
+            "w": 95,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Egypt, Arab Rep.",
+        "answer_id": 51535,
+        "type": "vbar",
+        "question_id": 326077
+    },
+    {
+        "image_index": 7239,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 596,
+                "x": 843,
+                "w": 69,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 843,
+                "w": 45,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "hbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 7105,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 596,
+                "x": 1072,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 1072,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "hbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 20191,
+        "qid": "S1",
+        "question_string": "Does the graph contain grids ?",
+        "answer_bbox": [
+            {
+                "y": 36,
+                "x": 94,
+                "w": 4,
+                "h": 594
+            },
+            {
+                "y": 36,
+                "x": 305,
+                "w": 4,
+                "h": 594
+            },
+            {
+                "y": 36,
+                "x": 517,
+                "w": 4,
+                "h": 594
+            },
+            {
+                "y": 36,
+                "x": 728,
+                "w": 4,
+                "h": 594
+            },
+            {
+                "y": 36,
+                "x": 940,
+                "w": 4,
+                "h": 594
+            },
+            {
+                "y": 523,
+                "x": 53,
+                "w": 931,
+                "h": 4
+            },
+            {
+                "y": 417,
+                "x": 53,
+                "w": 931,
+                "h": 4
+            },
+            {
+                "y": 311,
+                "x": 53,
+                "w": 931,
+                "h": 4
+            },
+            {
+                "y": 205,
+                "x": 53,
+                "w": 931,
+                "h": 4
+            },
+            {
+                "y": 99,
+                "x": 53,
+                "w": 931,
+                "h": 4
+            }
+        ],
+        "template": "structural",
+        "answer": "Yes",
+        "answer_id": 1,
+        "type": "line",
+        "question_id": 28
+    },
+    {
+        "image_index": 15560,
+        "qid": "S1",
+        "question_string": "Does the graph contain grids ?",
+        "answer_bbox": [
+            {
+                "y": 34,
+                "x": 401,
+                "w": 4,
+                "h": 562
+            },
+            {
+                "y": 34,
+                "x": 617,
+                "w": 4,
+                "h": 562
+            },
+            {
+                "y": 34,
+                "x": 833,
+                "w": 4,
+                "h": 562
+            },
+            {
+                "y": 34,
+                "x": 1049,
+                "w": 4,
+                "h": 562
+            },
+            {
+                "y": 561,
+                "x": 187,
+                "w": 889,
+                "h": 4
+            },
+            {
+                "y": 462,
+                "x": 187,
+                "w": 889,
+                "h": 4
+            },
+            {
+                "y": 363,
+                "x": 187,
+                "w": 889,
+                "h": 4
+            },
+            {
+                "y": 264,
+                "x": 187,
+                "w": 889,
+                "h": 4
+            },
+            {
+                "y": 165,
+                "x": 187,
+                "w": 889,
+                "h": 4
+            },
+            {
+                "y": 65,
+                "x": 187,
+                "w": 889,
+                "h": 4
+            }
+        ],
+        "template": "structural",
+        "answer": "Yes",
+        "answer_id": 1,
+        "type": "hbar",
+        "question_id": 28
+    },
+    {
+        "image_index": 24988,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 53.21312500000003,
+            "w": 497.4,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Balance of payments for transport services (% of service imports)",
+        "answer_id": 13177,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 13092,
+        "qid": "M4",
+        "question_string": "Across all years, what is the maximum secondary school starting age of children in Swaziland ?",
+        "answer_bbox": {
+            "y": 528,
+            "x": 62,
+            "w": 684,
+            "h": 23
+        },
+        "template": "min_max",
+        "answer": "6",
+        "answer_id": 174,
+        "type": "hbar",
+        "question_id": 196153
+    },
+    {
+        "image_index": 6803,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 586,
+            "x": 1156,
+            "w": 139,
+            "h": 63
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "hbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 11899,
+        "qid": "S5",
+        "question_string": "How many countries are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 280,
+                "x": 921,
+                "w": 51,
+                "h": 20
+            },
+            {
+                "y": 303,
+                "x": 921,
+                "w": 51,
+                "h": 20
+            },
+            {
+                "y": 326,
+                "x": 921,
+                "w": 67,
+                "h": 20
+            },
+            {
+                "y": 349,
+                "x": 921,
+                "w": 85,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "hbar",
+        "question_id": 95239
+    },
+    {
+        "image_index": 26004,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 471,
+                "x": 91,
+                "w": 47,
+                "h": 40
+            },
+            {
+                "y": 99,
+                "x": 404,
+                "w": 47,
+                "h": 412
+            },
+            {
+                "y": 468,
+                "x": 716,
+                "w": 47,
+                "h": 43
+            },
+            {
+                "y": 486,
+                "x": 138,
+                "w": 47,
+                "h": 25
+            },
+            {
+                "y": 57,
+                "x": 450,
+                "w": 47,
+                "h": 454
+            },
+            {
+                "y": 473,
+                "x": 763,
+                "w": 47,
+                "h": 38
+            },
+            {
+                "y": 497,
+                "x": 185,
+                "w": 47,
+                "h": 13
+            },
+            {
+                "y": 102,
+                "x": 497,
+                "w": 47,
+                "h": 409
+            },
+            {
+                "y": 472,
+                "x": 810,
+                "w": 47,
+                "h": 39
+            }
+        ],
+        "template": "structural",
+        "answer": 9,
+        "answer_id": 1346,
+        "type": "vbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 6901,
+        "qid": "M7",
+        "question_string": "In which year was the percentage of employed males who are attending school minimum?",
+        "answer_bbox": {
+            "y": 458,
+            "x": 30,
+            "w": 27.9375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "2000",
+        "answer_id": 5,
+        "type": "hbar",
+        "question_id": 6140
+    },
+    {
+        "image_index": 5700,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 609,
+            "x": 0,
+            "w": 238,
+            "h": 40
+        },
+        "template": "structural",
+        "answer": "bottom left",
+        "answer_id": 191,
+        "type": "hbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 16000,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 544,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 308,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            },
+            {
+                "y": 73,
+                "x": 27,
+                "w": 24.4375,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "hbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 27957,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 595,
+                "w": 33,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 656,
+                "w": 33,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 717,
+                "w": 33,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "vbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 26968,
+        "qid": "D15",
+        "question_string": "What is the value added by industrial sector in Tunisia ?",
+        "answer_bbox": [
+            {
+                "y": 396,
+                "x": 258,
+                "w": 51,
+                "h": 145
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 2194476729.2599,
+        "answer_id": 221187,
+        "type": "vbar",
+        "question_id": 352065
+    },
+    {
+        "image_index": 25212,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 263,
+            "x": 7,
+            "w": 19,
+            "h": 92.453125
+        },
+        "template": "data_retrieval",
+        "answer": "Earning(%)",
+        "answer_id": 12386,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 10365,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 282,
+            "x": 7,
+            "w": 19,
+            "h": 65.546875
+        },
+        "template": "data_retrieval",
+        "answer": "Country",
+        "answer_id": 51311,
+        "type": "hbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 19312,
+        "qid": "M6",
+        "question_string": "In which year was the volume of the air carriers in South Asia maximum?",
+        "answer_bbox": {
+            "y": 601,
+            "x": 1164,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "1999",
+        "answer_id": 124,
+        "type": "line",
+        "question_id": 266028
+    },
+    {
+        "image_index": 20841,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": -1,
+            "x": 1203,
+            "w": 107,
+            "h": 109
+        },
+        "template": "structural",
+        "answer": "top right",
+        "answer_id": 172,
+        "type": "line",
+        "question_id": 29
+    },
+    {
+        "image_index": 355,
+        "qid": "S6",
+        "question_string": "How many dotlines are there ?",
+        "answer_bbox": [
+            {
+                "y": 424,
+                "x": 85,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 388,
+                "x": 207,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 381,
+                "x": 329,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 375,
+                "x": 451,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 377,
+                "x": 573,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 382,
+                "x": 695,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 380,
+                "x": 817,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 382,
+                "x": 939,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 153,
+                "x": 85,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 77,
+                "x": 207,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 45,
+                "x": 329,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 87,
+                "x": 451,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 92,
+                "x": 573,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 75,
+                "x": 695,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 66,
+                "x": 817,
+                "w": 12,
+                "h": 12
+            },
+            {
+                "y": 237,
+                "x": 939,
+                "w": 12,
+                "h": 12
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "dot",
+        "question_id": 23
+    },
+    {
+        "image_index": 872,
+        "qid": "M7",
+        "question_string": "In which year was the expenditure in education minimum?",
+        "answer_bbox": {
+            "y": 591,
+            "x": 355,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2001",
+        "answer_id": 96,
+        "type": "dot",
+        "question_id": 2814
+    },
+    {
+        "image_index": 2011,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 9,
+                "x": 1185,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 32,
+                "x": 1185,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 55,
+                "x": 1185,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "dot",
+        "question_id": 31
+    },
+    {
+        "image_index": 21628,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 629.8075,
+            "x": 515,
+            "w": 32.890625,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Year",
+        "answer_id": 22,
+        "type": "line",
+        "question_id": 34
+    },
+    {
+        "image_index": 415,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 586,
+            "x": 1155,
+            "w": 97,
+            "h": 63
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "dot",
+        "question_id": 29
+    },
+    {
+        "image_index": 31126,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 983,
+                "w": 51,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 1062,
+                "w": 37,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 1127,
+                "w": 67,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 1221,
+                "w": 45,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "vbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 14520,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 235.125625,
+            "w": 439.0,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Net bilateral aid flows from DAC donors (Slovak Republic)",
+        "answer_id": 32042,
+        "type": "hbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 11128,
+        "qid": "D15",
+        "question_string": "What is the ratio of bank capital and reserves to total assets in 2002 in Israel ?",
+        "answer_bbox": {
+            "y": 60,
+            "x": 103,
+            "w": 359,
+            "h": 32
+        },
+        "template": "data_retrieval",
+        "answer": 4.9,
+        "answer_id": 7112,
+        "type": "hbar",
+        "question_id": 167912
+    },
+    {
+        "image_index": 26622,
+        "qid": "M5",
+        "question_string": "Across all countries, what is the minimum number of tourist arrivals in 1995 ?",
+        "answer_bbox": {
+            "y": 244,
+            "x": 701,
+            "w": 43,
+            "h": 133
+        },
+        "template": "min_max",
+        "answer": 14558319.0356612,
+        "answer_id": 218425,
+        "type": "vbar",
+        "question_id": 156465
+    },
+    {
+        "image_index": 13578,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 540,
+            "x": 1024,
+            "w": 97,
+            "h": 109
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "hbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 10052,
+        "qid": "D3",
+        "question_string": "What does the 3rd bar from the bottom in 2008 represents ?",
+        "answer_bbox": {
+            "y": 55,
+            "x": 1219,
+            "w": 41,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Latvia",
+        "answer_id": 53450,
+        "type": "hbar",
+        "question_id": 119355
+    },
+    {
+        "image_index": 7053,
+        "qid": "S14",
+        "question_string": "How many bars are there on the 5th tick from the bottom ?",
+        "answer_bbox": [
+            {
+                "y": 183,
+                "x": 111,
+                "w": 68,
+                "h": 16
+            },
+            {
+                "y": 167,
+                "x": 111,
+                "w": 70,
+                "h": 16
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "hbar",
+        "question_id": 95241
+    },
+    {
+        "image_index": 23772,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 596,
+                "x": 1082,
+                "w": 101,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 1082,
+                "w": 103,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "vbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 22705,
+        "qid": "M6",
+        "question_string": "In which country was the incurrence of domestic liabilities maximum ?",
+        "answer_bbox": {
+            "y": 546,
+            "x": 811,
+            "w": 14,
+            "h": 53.90625
+        },
+        "template": "min_max",
+        "answer": "Sri Lanka",
+        "answer_id": 51597,
+        "type": "vbar",
+        "question_id": 303585
+    },
+    {
+        "image_index": 14381,
+        "qid": "D15",
+        "question_string": "What is the amount of loan disbursed from government in 1972 in Guatemala ?",
+        "answer_bbox": {
+            "y": 276,
+            "x": 116,
+            "w": 83,
+            "h": 15
+        },
+        "template": "data_retrieval",
+        "answer": 4904000.0,
+        "answer_id": 124496,
+        "type": "hbar",
+        "question_id": 214161
+    },
+    {
+        "image_index": 22639,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 596,
+                "x": 929,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 929,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "vbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 9666,
+        "qid": "D5",
+        "question_string": "What is the label of the 1st group of bars from the top ?",
+        "answer_bbox": {
+            "y": 97,
+            "x": 30,
+            "w": 59.234375,
+            "h": 14
+        },
+        "template": "data_retrieval",
+        "answer": "Netherlands",
+        "answer_id": 51592,
+        "type": "hbar",
+        "question_id": 95194
+    },
+    {
+        "image_index": 7705,
+        "qid": "M7",
+        "question_string": "In which year was the number of broadband subscriptions in Albania minimum?",
+        "answer_bbox": {
+            "y": 510,
+            "x": 30,
+            "w": 27.9375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "2009",
+        "answer_id": 440,
+        "type": "hbar",
+        "question_id": 119436
+    },
+    {
+        "image_index": 9516,
+        "qid": "M5",
+        "question_string": "Across all countries, what is the minimum female mortality rate in 1961 ?",
+        "answer_bbox": {
+            "y": 81,
+            "x": 149,
+            "w": 510,
+            "h": 19
+        },
+        "template": "min_max",
+        "answer": 259.188,
+        "answer_id": 84932,
+        "type": "hbar",
+        "question_id": 129322
+    },
+    {
+        "image_index": 24505,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 188,
+            "x": 7,
+            "w": 19,
+            "h": 288.015625
+        },
+        "template": "data_retrieval",
+        "answer": "No. of subscribers (per 100 people)",
+        "answer_id": 2409,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 22906,
+        "qid": "D1",
+        "question_string": "What does the 1st bar from the right in 1990 represents ?",
+        "answer_bbox": {
+            "y": 619,
+            "x": 445,
+            "w": 68,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Electricity",
+        "answer_id": 55070,
+        "type": "vbar",
+        "question_id": 302250
+    },
+    {
+        "image_index": 24998,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 57,
+            "x": 6,
+            "w": 18,
+            "h": 306.53125
+        },
+        "template": "data_retrieval",
+        "answer": "CO2 emissions (% of total fuel combustion)",
+        "answer_id": 320,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 11723,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 639.8075000000001,
+            "x": 611,
+            "w": 175.359375,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Value added (% of GDP)",
+        "answer_id": 28880,
+        "type": "hbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 24598,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 286,
+            "x": 7,
+            "w": 19,
+            "h": 92.453125
+        },
+        "template": "data_retrieval",
+        "answer": "Earning(%)",
+        "answer_id": 12386,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 29132,
+        "qid": "M4",
+        "question_string": "Across all countries, what is the maximum number of procedures required to register a business in 2005 ?",
+        "answer_bbox": {
+            "y": 58,
+            "x": 154,
+            "w": 29,
+            "h": 481
+        },
+        "template": "min_max",
+        "answer": 15.0,
+        "answer_id": 1825,
+        "type": "vbar",
+        "question_id": 203981
+    },
+    {
+        "image_index": 20867,
+        "qid": "S6",
+        "question_string": "How many lines are there ?",
+        "answer_bbox": [
+            {
+                "y": 352,
+                "x": 86,
+                "w": 166,
+                "h": 4
+            },
+            {
+                "y": 352,
+                "x": 252,
+                "w": 165,
+                "h": 6
+            },
+            {
+                "y": 358,
+                "x": 417,
+                "w": 166,
+                "h": 3
+            },
+            {
+                "y": 361,
+                "x": 583,
+                "w": 165,
+                "h": 0
+            },
+            {
+                "y": 142,
+                "x": 86,
+                "w": 166,
+                "h": 58
+            },
+            {
+                "y": 142,
+                "x": 252,
+                "w": 165,
+                "h": 11
+            },
+            {
+                "y": 103,
+                "x": 417,
+                "w": 166,
+                "h": 50
+            },
+            {
+                "y": 54,
+                "x": 583,
+                "w": 165,
+                "h": 49
+            },
+            {
+                "y": 377,
+                "x": 86,
+                "w": 166,
+                "h": 4
+            },
+            {
+                "y": 381,
+                "x": 252,
+                "w": 165,
+                "h": 12
+            },
+            {
+                "y": 393,
+                "x": 417,
+                "w": 166,
+                "h": 19
+            },
+            {
+                "y": 412,
+                "x": 583,
+                "w": 165,
+                "h": 3
+            },
+            {
+                "y": 367,
+                "x": 86,
+                "w": 166,
+                "h": 4
+            },
+            {
+                "y": 224,
+                "x": 252,
+                "w": 165,
+                "h": 143
+            },
+            {
+                "y": 224,
+                "x": 417,
+                "w": 166,
+                "h": 155
+            },
+            {
+                "y": 345,
+                "x": 583,
+                "w": 165,
+                "h": 34
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "line",
+        "question_id": 235811
+    },
+    {
+        "image_index": 30850,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 35,
+                "w": 43,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 106,
+                "w": 96,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 230,
+                "w": 57,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 316,
+                "w": 84,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "vbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 27222,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 114.67562500000003,
+            "w": 460.9,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "External debt owed to nonresidents by residents of a country",
+        "answer_id": 12581,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 17415,
+        "qid": "S6",
+        "question_string": "How many lines are there ?",
+        "answer_bbox": [
+            {
+                "y": 42,
+                "x": 98,
+                "w": 375,
+                "h": 7
+            },
+            {
+                "y": 42,
+                "x": 473,
+                "w": 374,
+                "h": 14
+            },
+            {
+                "y": 56,
+                "x": 847,
+                "w": 375,
+                "h": 10
+            },
+            {
+                "y": 232,
+                "x": 98,
+                "w": 375,
+                "h": 6
+            },
+            {
+                "y": 232,
+                "x": 473,
+                "w": 374,
+                "h": 17
+            },
+            {
+                "y": 208,
+                "x": 847,
+                "w": 375,
+                "h": 41
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "line",
+        "question_id": 235811
+    },
+    {
+        "image_index": 25384,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 53.213125000000055,
+            "w": 599.6,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Cost of communications and computers with respect to commercial service imports",
+        "answer_id": 18796,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 28095,
+        "qid": "S12",
+        "question_string": "How many bars are there on the 2nd tick from the right ?",
+        "answer_bbox": [
+            {
+                "y": 175,
+                "x": 88,
+                "w": 81,
+                "h": 394
+            },
+            {
+                "y": 175,
+                "x": 168,
+                "w": 81,
+                "h": 394
+            },
+            {
+                "y": 237,
+                "x": 249,
+                "w": 81,
+                "h": 331
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "vbar",
+        "question_id": 300605
+    },
+    {
+        "image_index": 7593,
+        "qid": "D5",
+        "question_string": "What is the label of the 1st group of bars from the top ?",
+        "answer_bbox": {
+            "y": 126,
+            "x": 30,
+            "w": 27.9375,
+            "h": 14
+        },
+        "template": "data_retrieval",
+        "answer": "2005",
+        "answer_id": 224,
+        "type": "hbar",
+        "question_id": 95194
+    },
+    {
+        "image_index": 29601,
+        "qid": "M5",
+        "question_string": "Across all countries, what is the minimum amount spent on labor taxes ?",
+        "answer_bbox": {
+            "y": 554,
+            "x": 324,
+            "w": 22,
+            "h": 1
+        },
+        "template": "min_max",
+        "answer": 106263207.431208,
+        "answer_id": 241706,
+        "type": "vbar",
+        "question_id": 144452
+    },
+    {
+        "image_index": 16585,
+        "qid": "D14",
+        "question_string": "What is the percentage of repeaters in Burundi ?",
+        "answer_bbox": [
+            {
+                "y": 183,
+                "x": 156,
+                "w": 958,
+                "h": 18
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 23.7149600982666,
+        "answer_id": 138715,
+        "type": "hbar",
+        "question_id": 233941
+    },
+    {
+        "image_index": 11903,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 9,
+                "x": 1020,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 32,
+                "x": 1020,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 55,
+                "x": 1020,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 78,
+                "x": 1020,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "hbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 25547,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 730,
+                "w": 139,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 897,
+                "w": 40,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 966,
+                "w": 99,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "vbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 23648,
+        "qid": "D1",
+        "question_string": "What does the 1st bar from the right in 1963 represents ?",
+        "answer_bbox": {
+            "y": 326,
+            "x": 821,
+            "w": 148,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Urban agglomerations",
+        "answer_id": 66890,
+        "type": "vbar",
+        "question_id": 310951
+    },
+    {
+        "image_index": 24105,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 573,
+                "x": 35,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 504,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 435,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 366,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 297,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 228,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 159,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 90,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "vbar",
+        "question_id": 26
+    },
+    {
+        "image_index": 14486,
+        "qid": "M7",
+        "question_string": "In which year was the amount of aid given by switzerland minimum?",
+        "answer_bbox": {
+            "y": 514,
+            "x": 27,
+            "w": 24.4375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "1991",
+        "answer_id": 415,
+        "type": "hbar",
+        "question_id": 215565
+    },
+    {
+        "image_index": 30489,
+        "qid": "S12",
+        "question_string": "How many bars are there on the 4th tick from the right ?",
+        "answer_bbox": [
+            {
+                "y": 63,
+                "x": 79,
+                "w": 28,
+                "h": 568
+            },
+            {
+                "y": 63,
+                "x": 107,
+                "w": 28,
+                "h": 568
+            },
+            {
+                "y": 144,
+                "x": 135,
+                "w": 28,
+                "h": 487
+            },
+            {
+                "y": 225,
+                "x": 163,
+                "w": 28,
+                "h": 405
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "vbar",
+        "question_id": 300591
+    },
+    {
+        "image_index": 9331,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 659,
+            "x": 1190,
+            "w": 185,
+            "h": 40
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "hbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 6624,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 241,
+            "x": 7,
+            "w": 19,
+            "h": 149.34375
+        },
+        "template": "data_retrieval",
+        "answer": "Level of education",
+        "answer_id": 51401,
+        "type": "hbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 3110,
+        "qid": "M7",
+        "question_string": "In which year was the percentage of firms offering training minimum?",
+        "answer_bbox": {
+            "y": 598,
+            "x": 76,
+            "w": 14,
+            "h": 24.4375
+        },
+        "template": "min_max",
+        "answer": "2006",
+        "answer_id": 377,
+        "type": "dot",
+        "question_id": 56758
+    },
+    {
+        "image_index": 21121,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": -1,
+            "x": 1065,
+            "w": 113,
+            "h": 109
+        },
+        "template": "structural",
+        "answer": "top right",
+        "answer_id": 172,
+        "type": "line",
+        "question_id": 29
+    },
+    {
+        "image_index": 16219,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 629.8074999999999,
+            "x": 429,
+            "w": 411.421875,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Debt(% of exports of goods, services and primary income)",
+        "answer_id": 13239,
+        "type": "hbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 30892,
+        "qid": "S12",
+        "question_string": "How many bars are there on the 1st tick from the right ?",
+        "answer_bbox": [
+            {
+                "y": 183,
+                "x": 635,
+                "w": 27,
+                "h": 321
+            },
+            {
+                "y": 395,
+                "x": 662,
+                "w": 27,
+                "h": 109
+            },
+            {
+                "y": 238,
+                "x": 690,
+                "w": 27,
+                "h": 266
+            },
+            {
+                "y": 172,
+                "x": 717,
+                "w": 27,
+                "h": 332
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "vbar",
+        "question_id": 300632
+    },
+    {
+        "image_index": 28468,
+        "qid": "M4",
+        "question_string": "Across all years, what is the maximum lower secondary completion rate of male students in Moldova ?",
+        "answer_bbox": {
+            "y": 100,
+            "x": 243,
+            "w": 66,
+            "h": 490
+        },
+        "template": "min_max",
+        "answer": 86.5342636108398,
+        "answer_id": 233178,
+        "type": "vbar",
+        "question_id": 370175
+    },
+    {
+        "image_index": 19293,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 583,
+                "x": 112,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 499,
+                "x": 42,
+                "w": 76.828125,
+                "h": 14
+            },
+            {
+                "y": 415,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 331,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 247,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 163,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            },
+            {
+                "y": 79,
+                "x": 35,
+                "w": 83.8125,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "line",
+        "question_id": 26
+    },
+    {
+        "image_index": 1494,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 659,
+            "x": 755,
+            "w": 246,
+            "h": 40
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "dot",
+        "question_id": 29
+    },
+    {
+        "image_index": 23520,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 458,
+                "x": 82,
+                "w": 20,
+                "h": 93
+            },
+            {
+                "y": 525,
+                "x": 218,
+                "w": 20,
+                "h": 26
+            },
+            {
+                "y": 277,
+                "x": 353,
+                "w": 20,
+                "h": 274
+            },
+            {
+                "y": 497,
+                "x": 489,
+                "w": 20,
+                "h": 54
+            },
+            {
+                "y": 283,
+                "x": 624,
+                "w": 20,
+                "h": 268
+            },
+            {
+                "y": 405,
+                "x": 103,
+                "w": 20,
+                "h": 146
+            },
+            {
+                "y": 59,
+                "x": 238,
+                "w": 20,
+                "h": 492
+            },
+            {
+                "y": 143,
+                "x": 374,
+                "w": 20,
+                "h": 408
+            },
+            {
+                "y": 545,
+                "x": 509,
+                "w": 20,
+                "h": 6
+            },
+            {
+                "y": 229,
+                "x": 645,
+                "w": 20,
+                "h": 322
+            }
+        ],
+        "template": "structural",
+        "answer": 10,
+        "answer_id": 18,
+        "type": "vbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 2579,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 637.1525,
+            "x": 620,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "dot",
+        "question_id": 34
+    },
+    {
+        "image_index": 4497,
+        "qid": "M3",
+        "question_string": "In which year was the agricultural land minimum ?",
+        "answer_bbox": {
+            "y": 598,
+            "x": 126,
+            "w": 14,
+            "h": 24.4375
+        },
+        "template": "min_max",
+        "answer": "1998",
+        "answer_id": 239,
+        "type": "dot",
+        "question_id": 86028
+    },
+    {
+        "image_index": 16649,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 62.073750000000004,
+            "w": 544.0,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Rating regarding strength of legal rights index in Ethiopia",
+        "answer_id": 139114,
+        "type": "hbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 17743,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 53.21312500000002,
+            "w": 714.0,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Population in the largest city of Denmark vs population in urban agglomerations",
+        "answer_id": 147890,
+        "type": "line",
+        "question_id": 32
+    },
+    {
+        "image_index": 30523,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 677.1525,
+            "x": 507,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "vbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 15376,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 542,
+                "x": 62,
+                "w": 870,
+                "h": 32
+            },
+            {
+                "y": 380,
+                "x": 62,
+                "w": 866,
+                "h": 32
+            },
+            {
+                "y": 218,
+                "x": 62,
+                "w": 843,
+                "h": 32
+            },
+            {
+                "y": 56,
+                "x": 62,
+                "w": 869,
+                "h": 32
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 26786,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 637.1525,
+            "x": 655,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "vbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 25811,
+        "qid": "D1",
+        "question_string": "What does the 2nd bar from the right in Cambodia represents ?",
+        "answer_bbox": {
+            "y": 669,
+            "x": 1127,
+            "w": 31,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "2006",
+        "answer_id": 377,
+        "type": "vbar",
+        "question_id": 311429
+    },
+    {
+        "image_index": 28175,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 623,
+                "x": 35,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 490,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 357,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 224,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 90,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "vbar",
+        "question_id": 26
+    },
+    {
+        "image_index": 10800,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 603,
+                "x": 117,
+                "w": 624,
+                "h": 15
+            },
+            {
+                "y": 501,
+                "x": 117,
+                "w": 691,
+                "h": 15
+            },
+            {
+                "y": 399,
+                "x": 117,
+                "w": 680,
+                "h": 15
+            },
+            {
+                "y": 297,
+                "x": 117,
+                "w": 683,
+                "h": 15
+            },
+            {
+                "y": 195,
+                "x": 117,
+                "w": 660,
+                "h": 15
+            },
+            {
+                "y": 93,
+                "x": 117,
+                "w": 734,
+                "h": 15
+            },
+            {
+                "y": 588,
+                "x": 117,
+                "w": 649,
+                "h": 15
+            },
+            {
+                "y": 486,
+                "x": 117,
+                "w": 721,
+                "h": 15
+            },
+            {
+                "y": 384,
+                "x": 117,
+                "w": 667,
+                "h": 15
+            },
+            {
+                "y": 282,
+                "x": 117,
+                "w": 695,
+                "h": 15
+            },
+            {
+                "y": 180,
+                "x": 117,
+                "w": 675,
+                "h": 15
+            },
+            {
+                "y": 77,
+                "x": 117,
+                "w": 741,
+                "h": 15
+            },
+            {
+                "y": 572,
+                "x": 117,
+                "w": 667,
+                "h": 15
+            },
+            {
+                "y": 470,
+                "x": 117,
+                "w": 747,
+                "h": 15
+            },
+            {
+                "y": 368,
+                "x": 117,
+                "w": 673,
+                "h": 15
+            },
+            {
+                "y": 266,
+                "x": 117,
+                "w": 713,
+                "h": 15
+            },
+            {
+                "y": 164,
+                "x": 117,
+                "w": 680,
+                "h": 15
+            },
+            {
+                "y": 62,
+                "x": 117,
+                "w": 741,
+                "h": 15
+            }
+        ],
+        "template": "structural",
+        "answer": 18,
+        "answer_id": 18808,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 29063,
+        "qid": "M4",
+        "question_string": "Across all years, what is the maximum percentage of new entrants in Latin America(all income levels) ?",
+        "answer_bbox": {
+            "y": 94,
+            "x": 681,
+            "w": 29,
+            "h": 496
+        },
+        "template": "min_max",
+        "answer": 98.2264251708984,
+        "answer_id": 237664,
+        "type": "vbar",
+        "question_id": 377969
+    },
+    {
+        "image_index": 26624,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 35,
+                "w": 38,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 101,
+                "w": 38,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 167,
+                "w": 38,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "vbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 20273,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 623,
+                "x": 97,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 526,
+                "x": 41,
+                "w": 62.859375,
+                "h": 14
+            },
+            {
+                "y": 428,
+                "x": 41,
+                "w": 62.859375,
+                "h": 14
+            },
+            {
+                "y": 330,
+                "x": 41,
+                "w": 62.859375,
+                "h": 14
+            },
+            {
+                "y": 233,
+                "x": 41,
+                "w": 62.859375,
+                "h": 14
+            },
+            {
+                "y": 135,
+                "x": 34,
+                "w": 69.84375,
+                "h": 14
+            },
+            {
+                "y": 37,
+                "x": 34,
+                "w": 69.84375,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "line",
+        "question_id": 26
+    },
+    {
+        "image_index": 3169,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 677.1525,
+            "x": 520,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "dot",
+        "question_id": 34
+    },
+    {
+        "image_index": 19395,
+        "qid": "M6",
+        "question_string": "In which year was the number of hours required to prepare and pay taxes in Poland maximum?",
+        "answer_bbox": {
+            "y": 641,
+            "x": 984,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2015",
+        "answer_id": 2146,
+        "type": "line",
+        "question_id": 267116
+    },
+    {
+        "image_index": 2198,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 353,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 511,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 564,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "horizontal",
+        "answer_id": 105,
+        "type": "dot",
+        "question_id": 31
+    },
+    {
+        "image_index": 32444,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 598,
+                "x": 115,
+                "w": 14,
+                "h": 24.4375
+            },
+            {
+                "y": 598,
+                "x": 388,
+                "w": 14,
+                "h": 24.4375
+            },
+            {
+                "y": 598,
+                "x": 660,
+                "w": 14,
+                "h": 24.4375
+            },
+            {
+                "y": 598,
+                "x": 933,
+                "w": 14,
+                "h": 24.4375
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "vbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 23186,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 619,
+                "x": 919,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 976,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "horizontal",
+        "answer_id": 105,
+        "type": "vbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 9989,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 141.23031250000003,
+            "w": 409.8,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Merchandise imports to developing economies in Europe",
+        "answer_id": 17179,
+        "type": "hbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 9634,
+        "qid": "M7",
+        "question_string": "In which country was the gender parity index in tertiary education minimum?",
+        "answer_bbox": {
+            "y": 529,
+            "x": 52,
+            "w": 23.171875,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "Iraq",
+        "answer_id": 55347,
+        "type": "hbar",
+        "question_id": 102696
+    },
+    {
+        "image_index": 18189,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 60.89593750000002,
+            "w": 679.9,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Ratio of younger dependents as the proportion of dependents per 100 working-age population",
+        "answer_id": 11528,
+        "type": "line",
+        "question_id": 32
+    },
+    {
+        "image_index": 13187,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 280,
+                "x": 1041,
+                "w": 56,
+                "h": 20
+            },
+            {
+                "y": 303,
+                "x": 1041,
+                "w": 75,
+                "h": 20
+            },
+            {
+                "y": 326,
+                "x": 1041,
+                "w": 48,
+                "h": 20
+            },
+            {
+                "y": 349,
+                "x": 1041,
+                "w": 83,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "hbar",
+        "question_id": 30
+    },
+    {
+        "image_index": 13449,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 208.92375000000004,
+            "w": 535.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Share of expenditures made in primary institutions in 2006",
+        "answer_id": 67512,
+        "type": "hbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 14154,
+        "qid": "M7",
+        "question_string": "In which country was the value added by manufacturing to the total GDP in 1962 minimum?",
+        "answer_bbox": {
+            "y": 230,
+            "x": 53,
+            "w": 208.640625,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "Sub-Saharan Africa (developing only)",
+        "answer_id": 53520,
+        "type": "hbar",
+        "question_id": 211068
+    },
+    {
+        "image_index": 7663,
+        "qid": "D2",
+        "question_string": "What does the 2nd bar from the top in 1971 represents ?",
+        "answer_bbox": {
+            "y": 339,
+            "x": 1085,
+            "w": 180,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Latin America(all income levels)",
+        "answer_id": 51469,
+        "type": "hbar",
+        "question_id": 110043
+    },
+    {
+        "image_index": 22674,
+        "qid": "M7",
+        "question_string": "In which year was the amount earned from national visitors minimum?",
+        "answer_bbox": {
+            "y": 591,
+            "x": 486,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2010",
+        "answer_id": 80,
+        "type": "vbar",
+        "question_id": 6571
+    },
+    {
+        "image_index": 31161,
+        "qid": "D15",
+        "question_string": "What is the percentage of adult females who smoke in Liberia in 2012 ?",
+        "answer_bbox": {
+            "y": 532,
+            "x": 1214,
+            "w": 50,
+            "h": 58
+        },
+        "template": "data_retrieval",
+        "answer": 2.7,
+        "answer_id": 8719,
+        "type": "vbar",
+        "question_id": 404697
+    },
+    {
+        "image_index": 6810,
+        "qid": "D15",
+        "question_string": "What is the female population in Jordan ?",
+        "answer_bbox": [
+            {
+                "y": 553,
+                "x": 152,
+                "w": 64,
+                "h": 18
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 6.4,
+        "answer_id": 10482,
+        "type": "hbar",
+        "question_id": 110194
+    },
+    {
+        "image_index": 10070,
+        "qid": "S1",
+        "question_string": "Does the graph contain grids ?",
+        "answer_bbox": [
+            {
+                "y": 34,
+                "x": 205,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 34,
+                "x": 343,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 34,
+                "x": 481,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 34,
+                "x": 619,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 34,
+                "x": 757,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 34,
+                "x": 895,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 34,
+                "x": 1033,
+                "w": 4,
+                "h": 612
+            },
+            {
+                "y": 586,
+                "x": 69,
+                "w": 1056,
+                "h": 4
+            },
+            {
+                "y": 484,
+                "x": 69,
+                "w": 1056,
+                "h": 4
+            },
+            {
+                "y": 382,
+                "x": 69,
+                "w": 1056,
+                "h": 4
+            },
+            {
+                "y": 280,
+                "x": 69,
+                "w": 1056,
+                "h": 4
+            },
+            {
+                "y": 178,
+                "x": 69,
+                "w": 1056,
+                "h": 4
+            },
+            {
+                "y": 75,
+                "x": 69,
+                "w": 1056,
+                "h": 4
+            }
+        ],
+        "template": "structural",
+        "answer": "Yes",
+        "answer_id": 1,
+        "type": "hbar",
+        "question_id": 28
+    },
+    {
+        "image_index": 29954,
+        "qid": "D15",
+        "question_string": "What is the gross enrolment ratio(male) in secondary schools in Low income ?",
+        "answer_bbox": [
+            {
+                "y": 278,
+                "x": 752,
+                "w": 30,
+                "h": 100
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": 30.5479297637939,
+        "answer_id": 244291,
+        "type": "vbar",
+        "question_id": 389104
+    },
+    {
+        "image_index": 24922,
+        "qid": "M5",
+        "question_string": "Across all years, what is the minimum percentage of population in the largent city in Kyrgyz Republic ?",
+        "answer_bbox": {
+            "y": 64,
+            "x": 706,
+            "w": 40,
+            "h": 566
+        },
+        "template": "min_max",
+        "answer": 44.19660192521241,
+        "answer_id": 205000,
+        "type": "vbar",
+        "question_id": 325956
+    },
+    {
+        "image_index": 12620,
+        "qid": "M5",
+        "question_string": "Across all countries, what is the minimum amount of disbursements received from Regional Development Bank in 1973 ?",
+        "answer_bbox": {
+            "y": 183,
+            "x": 106,
+            "w": -81,
+            "h": 18
+        },
+        "template": "min_max",
+        "answer": 0,
+        "answer_id": 69,
+        "type": "hbar",
+        "question_id": 189539
+    },
+    {
+        "image_index": 14614,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 566,
+                "x": 106,
+                "w": 569,
+                "h": 14
+            },
+            {
+                "y": 473,
+                "x": 106,
+                "w": 768,
+                "h": 14
+            },
+            {
+                "y": 381,
+                "x": 106,
+                "w": 740,
+                "h": 14
+            },
+            {
+                "y": 288,
+                "x": 106,
+                "w": 673,
+                "h": 14
+            },
+            {
+                "y": 195,
+                "x": 106,
+                "w": 536,
+                "h": 14
+            },
+            {
+                "y": 102,
+                "x": 106,
+                "w": 563,
+                "h": 14
+            },
+            {
+                "y": 552,
+                "x": 106,
+                "w": 644,
+                "h": 14
+            },
+            {
+                "y": 459,
+                "x": 106,
+                "w": 753,
+                "h": 14
+            },
+            {
+                "y": 367,
+                "x": 106,
+                "w": 759,
+                "h": 14
+            },
+            {
+                "y": 274,
+                "x": 106,
+                "w": 667,
+                "h": 14
+            },
+            {
+                "y": 181,
+                "x": 106,
+                "w": 467,
+                "h": 14
+            },
+            {
+                "y": 88,
+                "x": 106,
+                "w": 476,
+                "h": 14
+            },
+            {
+                "y": 538,
+                "x": 106,
+                "w": 541,
+                "h": 14
+            },
+            {
+                "y": 446,
+                "x": 106,
+                "w": 743,
+                "h": 14
+            },
+            {
+                "y": 353,
+                "x": 106,
+                "w": 726,
+                "h": 14
+            },
+            {
+                "y": 260,
+                "x": 106,
+                "w": 673,
+                "h": 14
+            },
+            {
+                "y": 167,
+                "x": 106,
+                "w": 446,
+                "h": 14
+            },
+            {
+                "y": 74,
+                "x": 106,
+                "w": 550,
+                "h": 14
+            },
+            {
+                "y": 524,
+                "x": 106,
+                "w": 546,
+                "h": 14
+            },
+            {
+                "y": 432,
+                "x": 106,
+                "w": 744,
+                "h": 14
+            },
+            {
+                "y": 339,
+                "x": 106,
+                "w": 736,
+                "h": 14
+            },
+            {
+                "y": 246,
+                "x": 106,
+                "w": 677,
+                "h": 14
+            },
+            {
+                "y": 153,
+                "x": 106,
+                "w": 643,
+                "h": 14
+            },
+            {
+                "y": 60,
+                "x": 106,
+                "w": 598,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 24,
+        "answer_id": 2145,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 26473,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 573,
+                "x": 867,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 596,
+                "x": 867,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 867,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "vbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 21070,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 677.1525,
+            "x": 661,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "line",
+        "question_id": 34
+    },
+    {
+        "image_index": 32925,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 629.8075,
+            "x": 459,
+            "w": 32.890625,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Year",
+        "answer_id": 22,
+        "type": "vbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 5173,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 48.63312500000002,
+            "w": 680.0,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Percentage of infants who were provided with Diarrhoea treatment in Algeria",
+        "answer_id": 48232,
+        "type": "dot",
+        "question_id": 32
+    },
+    {
+        "image_index": 27545,
+        "qid": "M5",
+        "question_string": "Across all years, what is the minimum percentage of amount earned from merchandise imports in Russian Federation ?",
+        "answer_bbox": {
+            "y": 473,
+            "x": 889,
+            "w": 37,
+            "h": 117
+        },
+        "template": "min_max",
+        "answer": 2.41253265238159,
+        "answer_id": 225845,
+        "type": "vbar",
+        "question_id": 134413
+    },
+    {
+        "image_index": 22975,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 435,
+                "x": 35,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 368,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 301,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 234,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 166,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 99,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 32,
+                "x": 28,
+                "w": 13.96875,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "vbar",
+        "question_id": 26
+    },
+    {
+        "image_index": 956,
+        "qid": "S3",
+        "question_string": "How many legend labels are there ?",
+        "answer_bbox": [
+            {
+                "y": 646,
+                "x": 1003,
+                "w": 77,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 1003,
+                "w": 39,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "dot",
+        "question_id": 30
+    },
+    {
+        "image_index": 4791,
+        "qid": "M3",
+        "question_string": "In which year was the depth of food deficit minimum ?",
+        "answer_bbox": {
+            "y": 598,
+            "x": 935,
+            "w": 14,
+            "h": 24.4375
+        },
+        "template": "min_max",
+        "answer": "2001",
+        "answer_id": 96,
+        "type": "dot",
+        "question_id": 88239
+    },
+    {
+        "image_index": 8369,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 657,
+                "x": 138,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 237,
+                "w": 69.84375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 369,
+                "w": 69.84375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 500,
+                "w": 69.84375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 631,
+                "w": 69.84375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 759,
+                "w": 76.828125,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 891,
+                "w": 76.828125,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "hbar",
+        "question_id": 95219
+    },
+    {
+        "image_index": 25139,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 637.1524999999999,
+            "x": 591,
+            "w": 65.546875,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Country",
+        "answer_id": 51311,
+        "type": "vbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 8814,
+        "qid": "M6",
+        "question_string": "In which year was the percentage of co2 emissions from other sectors maximum?",
+        "answer_bbox": {
+            "y": 523,
+            "x": 27,
+            "w": 24.4375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "1972",
+        "answer_id": 959,
+        "type": "hbar",
+        "question_id": 28957
+    },
+    {
+        "image_index": 6871,
+        "qid": "S14",
+        "question_string": "How many bars are there on the 3rd tick from the bottom ?",
+        "answer_bbox": [
+            {
+                "y": 89,
+                "x": 138,
+                "w": 379,
+                "h": 31
+            },
+            {
+                "y": 58,
+                "x": 138,
+                "w": 13,
+                "h": 31
+            }
+        ],
+        "template": "structural",
+        "answer": 2,
+        "answer_id": 0,
+        "type": "hbar",
+        "question_id": 95193
+    },
+    {
+        "image_index": 25751,
+        "qid": "S11",
+        "question_string": "How many bars are there on the 2nd tick from the left ?",
+        "answer_bbox": [
+            {
+                "y": 148,
+                "x": 433,
+                "w": 49,
+                "h": 418
+            },
+            {
+                "y": 148,
+                "x": 482,
+                "w": 49,
+                "h": 418
+            },
+            {
+                "y": 126,
+                "x": 531,
+                "w": 49,
+                "h": 440
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "vbar",
+        "question_id": 300575
+    },
+    {
+        "image_index": 13007,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 114.26312500000002,
+            "w": 446.3,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Value added by manufacturing to the total GDP of a country",
+        "answer_id": 29927,
+        "type": "hbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 14296,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 607,
+                "x": 62,
+                "w": -216,
+                "h": 15
+            },
+            {
+                "y": 507,
+                "x": 62,
+                "w": -188,
+                "h": 15
+            },
+            {
+                "y": 406,
+                "x": 62,
+                "w": -92,
+                "h": 15
+            },
+            {
+                "y": 305,
+                "x": 62,
+                "w": -146,
+                "h": 15
+            },
+            {
+                "y": 205,
+                "x": 62,
+                "w": -145,
+                "h": 15
+            },
+            {
+                "y": 104,
+                "x": 62,
+                "w": -140,
+                "h": 15
+            },
+            {
+                "y": 592,
+                "x": 62,
+                "w": -471,
+                "h": 15
+            },
+            {
+                "y": 492,
+                "x": 62,
+                "w": -196,
+                "h": 15
+            },
+            {
+                "y": 391,
+                "x": 62,
+                "w": -775,
+                "h": 15
+            },
+            {
+                "y": 290,
+                "x": 62,
+                "w": 826,
+                "h": 15
+            },
+            {
+                "y": 189,
+                "x": 62,
+                "w": -557,
+                "h": 15
+            },
+            {
+                "y": 89,
+                "x": 62,
+                "w": -18,
+                "h": 15
+            },
+            {
+                "y": 577,
+                "x": 62,
+                "w": 282,
+                "h": 15
+            },
+            {
+                "y": 476,
+                "x": 62,
+                "w": 28,
+                "h": 15
+            },
+            {
+                "y": 376,
+                "x": 62,
+                "w": 750,
+                "h": 15
+            },
+            {
+                "y": 275,
+                "x": 62,
+                "w": 10,
+                "h": 15
+            },
+            {
+                "y": 174,
+                "x": 62,
+                "w": -2860,
+                "h": 15
+            },
+            {
+                "y": 74,
+                "x": 62,
+                "w": -56,
+                "h": 15
+            },
+            {
+                "y": 562,
+                "x": 62,
+                "w": -21,
+                "h": 15
+            },
+            {
+                "y": 461,
+                "x": 62,
+                "w": 98,
+                "h": 15
+            },
+            {
+                "y": 361,
+                "x": 62,
+                "w": 138,
+                "h": 15
+            },
+            {
+                "y": 260,
+                "x": 62,
+                "w": 188,
+                "h": 15
+            },
+            {
+                "y": 159,
+                "x": 62,
+                "w": 5,
+                "h": 15
+            },
+            {
+                "y": 59,
+                "x": 62,
+                "w": -93,
+                "h": 15
+            }
+        ],
+        "template": "structural",
+        "answer": 9,
+        "answer_id": 1346,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 23548,
+        "qid": "D0",
+        "question_string": "What does the 2nd bar from the left in Bhutan represents ?",
+        "answer_bbox": {
+            "y": 619,
+            "x": 841,
+            "w": 80,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Under-five",
+        "answer_id": 51768,
+        "type": "vbar",
+        "question_id": 300798
+    },
+    {
+        "image_index": 7198,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 293,
+            "x": 847,
+            "w": 207,
+            "h": 63
+        },
+        "template": "structural",
+        "answer": "center right",
+        "answer_id": 40,
+        "type": "hbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 28609,
+        "qid": "M6",
+        "question_string": "In which country was the coal rent in 1972 maximum?",
+        "answer_bbox": {
+            "y": 505,
+            "x": 950,
+            "w": 14,
+            "h": 59.828125
+        },
+        "template": "min_max",
+        "answer": "South Asia",
+        "answer_id": 52356,
+        "type": "vbar",
+        "question_id": 194202
+    },
+    {
+        "image_index": 12092,
+        "qid": "M6",
+        "question_string": "In which country was the percentage of urban population growth in 1963 maximum?",
+        "answer_bbox": {
+            "y": 418,
+            "x": 64,
+            "w": 31.796875,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "Israel",
+        "answer_id": 51519,
+        "type": "hbar",
+        "question_id": 181676
+    },
+    {
+        "image_index": 415,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 627.1525,
+            "x": 612,
+            "w": 35.8125,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Year",
+        "answer_id": 22,
+        "type": "dot",
+        "question_id": 34
+    },
+    {
+        "image_index": 12028,
+        "qid": "S13",
+        "question_string": "How many bars are there on the 2nd tick from the top ?",
+        "answer_bbox": [
+            {
+                "y": 236,
+                "x": 62,
+                "w": 173,
+                "h": 18
+            },
+            {
+                "y": 218,
+                "x": 62,
+                "w": 95,
+                "h": 18
+            },
+            {
+                "y": 199,
+                "x": 62,
+                "w": 48,
+                "h": 18
+            },
+            {
+                "y": 181,
+                "x": 62,
+                "w": 57,
+                "h": 18
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "hbar",
+        "question_id": 95192
+    },
+    {
+        "image_index": 25095,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 540,
+                "x": 52,
+                "w": 6.109375,
+                "h": 14
+            },
+            {
+                "y": 448,
+                "x": 27,
+                "w": 30.546875,
+                "h": 14
+            },
+            {
+                "y": 357,
+                "x": 27,
+                "w": 30.546875,
+                "h": 14
+            },
+            {
+                "y": 265,
+                "x": 27,
+                "w": 30.546875,
+                "h": 14
+            },
+            {
+                "y": 174,
+                "x": 27,
+                "w": 30.546875,
+                "h": 14
+            },
+            {
+                "y": 82,
+                "x": 27,
+                "w": 30.546875,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "vbar",
+        "question_id": 26
+    },
+    {
+        "image_index": 27272,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 41.912812500000015,
+            "w": 773.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Prevalence of severe wasting in children of different countries with age under 5 years",
+        "answer_id": 54864,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 545,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 596,
+                "x": 797,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 797,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "dot",
+        "question_id": 31
+    },
+    {
+        "image_index": 18193,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 9,
+                "x": 1292,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 32,
+                "x": 1292,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 55,
+                "x": 1292,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "line",
+        "question_id": 31
+    },
+    {
+        "image_index": 26065,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 637.1525,
+            "x": 440,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "vbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 20324,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 295,
+            "x": 1000,
+            "w": 125,
+            "h": 109
+        },
+        "template": "structural",
+        "answer": "center right",
+        "answer_id": 40,
+        "type": "line",
+        "question_id": 29
+    },
+    {
+        "image_index": 7007,
+        "qid": "D15",
+        "question_string": "What is the amount of loans disbursed in Cabo Verde in 1995 ?",
+        "answer_bbox": {
+            "y": 550,
+            "x": 62,
+            "w": -1,
+            "h": 34
+        },
+        "template": "data_retrieval",
+        "answer": 0,
+        "answer_id": 69,
+        "type": "hbar",
+        "question_id": 112245
+    },
+    {
+        "image_index": 19656,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 9,
+                "x": 1034,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 32,
+                "x": 1034,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 55,
+                "x": 1034,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "line",
+        "question_id": 31
+    },
+    {
+        "image_index": 8242,
+        "qid": "M7",
+        "question_string": "In which country was the total amount earned by exporting goods and services in 1960 minimum?",
+        "answer_bbox": {
+            "y": 377,
+            "x": 59,
+            "w": 48.640625,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "Morocco",
+        "answer_id": 51944,
+        "type": "hbar",
+        "question_id": 127886
+    },
+    {
+        "image_index": 1131,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 306,
+            "x": 1015,
+            "w": 113,
+            "h": 86
+        },
+        "template": "structural",
+        "answer": "center right",
+        "answer_id": 40,
+        "type": "dot",
+        "question_id": 29
+    },
+    {
+        "image_index": 22101,
+        "qid": "S6",
+        "question_string": "How many lines are there ?",
+        "answer_bbox": [
+            {
+                "y": 88,
+                "x": 105,
+                "w": 131,
+                "h": 6
+            },
+            {
+                "y": 55,
+                "x": 236,
+                "w": 132,
+                "h": 39
+            },
+            {
+                "y": 47,
+                "x": 368,
+                "w": 132,
+                "h": 8
+            },
+            {
+                "y": 47,
+                "x": 500,
+                "w": 131,
+                "h": 47
+            },
+            {
+                "y": 94,
+                "x": 631,
+                "w": 132,
+                "h": 159
+            },
+            {
+                "y": 253,
+                "x": 763,
+                "w": 132,
+                "h": 43
+            },
+            {
+                "y": 296,
+                "x": 895,
+                "w": 132,
+                "h": 24
+            },
+            {
+                "y": 320,
+                "x": 1027,
+                "w": 131,
+                "h": 60
+            }
+        ],
+        "template": "structural",
+        "answer": 1,
+        "answer_id": 16,
+        "type": "line",
+        "question_id": 235811
+    },
+    {
+        "image_index": 29446,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 9,
+                "x": 1146,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 32,
+                "x": 1146,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 55,
+                "x": 1146,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 78,
+                "x": 1146,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "vbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 20949,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 48.63312500000002,
+            "w": 620.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Percentage of female pupils at different levels of education in Mali",
+        "answer_id": 174398,
+        "type": "line",
+        "question_id": 32
+    },
+    {
+        "image_index": 8076,
+        "qid": "S14",
+        "question_string": "How many bars are there on the 4th tick from the bottom ?",
+        "answer_bbox": [
+            {
+                "y": 212,
+                "x": 98,
+                "w": 749,
+                "h": 18
+            },
+            {
+                "y": 195,
+                "x": 98,
+                "w": 760,
+                "h": 18
+            },
+            {
+                "y": 177,
+                "x": 98,
+                "w": 777,
+                "h": 18
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "hbar",
+        "question_id": 95286
+    },
+    {
+        "image_index": 29569,
+        "qid": "M5",
+        "question_string": "Across all years, what is the minimum percentage of total labor force with primary education in Moldova ?",
+        "answer_bbox": {
+            "y": 142,
+            "x": 683,
+            "w": 39,
+            "h": 448
+        },
+        "template": "min_max",
+        "answer": 54.5,
+        "answer_id": 38688,
+        "type": "vbar",
+        "question_id": 384307
+    },
+    {
+        "image_index": 9950,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 657,
+                "x": 66,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 274,
+                "w": 17.453125,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 494,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 703,
+                "w": 17.453125,
+                "h": 14
+            },
+            {
+                "y": 657,
+                "x": 923,
+                "w": 6.984375,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 6,
+        "answer_id": 34,
+        "type": "hbar",
+        "question_id": 24
+    },
+    {
+        "image_index": 18870,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 637.1525,
+            "x": 570,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "line",
+        "question_id": 34
+    },
+    {
+        "image_index": 25959,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 500,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 692,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 790,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "horizontal",
+        "answer_id": 105,
+        "type": "vbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 10948,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 669,
+                "x": 570,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 631,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 669,
+                "x": 692,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "horizontal",
+        "answer_id": 105,
+        "type": "hbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 31642,
+        "qid": "M5",
+        "question_string": "Across all years, what is the minimum value added by the industrial sector to the total GDP in Sweden ?",
+        "answer_bbox": {
+            "y": 109,
+            "x": 738,
+            "w": 16,
+            "h": 481
+        },
+        "template": "min_max",
+        "answer": 69729759228.133,
+        "answer_id": 257078,
+        "type": "vbar",
+        "question_id": 410716
+    },
+    {
+        "image_index": 8490,
+        "qid": "M6",
+        "question_string": "In which country was the life expectancy at birth in in 1962 maximum?",
+        "answer_bbox": {
+            "y": 545,
+            "x": 51,
+            "w": 53.0625,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "Lithuania",
+        "answer_id": 52314,
+        "type": "hbar",
+        "question_id": 131627
+    },
+    {
+        "image_index": 14099,
+        "qid": "D5",
+        "question_string": "What is the label of the 2nd group of bars from the top ?",
+        "answer_bbox": {
+            "y": 211,
+            "x": 27,
+            "w": 24.4375,
+            "h": 14
+        },
+        "template": "data_retrieval",
+        "answer": "1996",
+        "answer_id": 362,
+        "type": "hbar",
+        "question_id": 95263
+    },
+    {
+        "image_index": 23127,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 659,
+            "x": 547,
+            "w": 193,
+            "h": 40
+        },
+        "template": "structural",
+        "answer": "bottom right",
+        "answer_id": 19,
+        "type": "vbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 7122,
+        "qid": "S2",
+        "question_string": "Where does the legend appear in the graph ?",
+        "answer_bbox": {
+            "y": 293,
+            "x": 1168,
+            "w": 93,
+            "h": 63
+        },
+        "template": "structural",
+        "answer": "center right",
+        "answer_id": 40,
+        "type": "hbar",
+        "question_id": 29
+    },
+    {
+        "image_index": 16583,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 629.8074999999999,
+            "x": 502,
+            "w": 248.828125,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Number of beds (per 1,000 people)",
+        "answer_id": 14403,
+        "type": "hbar",
+        "question_id": 34
+    },
+    {
+        "image_index": 3943,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 629.8075,
+            "x": 468,
+            "w": 32.890625,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Year",
+        "answer_id": 22,
+        "type": "dot",
+        "question_id": 34
+    },
+    {
+        "image_index": 6527,
+        "qid": "D15",
+        "question_string": "What is the percentage of self-employed workers in 1980 in Netherlands ?",
+        "answer_bbox": {
+            "y": 425,
+            "x": 115,
+            "w": 370,
+            "h": 25
+        },
+        "template": "data_retrieval",
+        "answer": 12.1999998092651,
+        "answer_id": 33282,
+        "type": "hbar",
+        "question_id": 107016
+    },
+    {
+        "image_index": 6492,
+        "qid": "S4",
+        "question_string": "How are the legend labels stacked ?",
+        "answer_bbox": [
+            {
+                "y": 596,
+                "x": 930,
+                "w": 20,
+                "h": 20
+            },
+            {
+                "y": 619,
+                "x": 930,
+                "w": 20,
+                "h": 20
+            }
+        ],
+        "template": "structural",
+        "answer": "vertical",
+        "answer_id": 20,
+        "type": "hbar",
+        "question_id": 31
+    },
+    {
+        "image_index": 32155,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 158,
+            "x": 6,
+            "w": 18,
+            "h": 301.96875
+        },
+        "template": "data_retrieval",
+        "answer": "Time spent(% of senior management time)",
+        "answer_id": 43546,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 800,
+        "qid": "D8",
+        "question_string": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer_bbox": [
+            {
+                "y": 573,
+                "x": 43,
+                "w": 6.984375,
+                "h": 14
+            },
+            {
+                "y": 495,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 416,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 338,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 259,
+                "x": 36,
+                "w": 13.96875,
+                "h": 14
+            },
+            {
+                "y": 180,
+                "x": 29,
+                "w": 20.953125,
+                "h": 14
+            },
+            {
+                "y": 102,
+                "x": 29,
+                "w": 20.953125,
+                "h": 14
+            }
+        ],
+        "template": "data_retrieval",
+        "answer": "No",
+        "answer_id": 17,
+        "type": "dot",
+        "question_id": 26
+    },
+    {
+        "image_index": 8272,
+        "qid": "S14",
+        "question_string": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer_bbox": [
+            {
+                "y": 407,
+                "x": 198,
+                "w": 403,
+                "h": 23
+            },
+            {
+                "y": 384,
+                "x": 198,
+                "w": 398,
+                "h": 23
+            },
+            {
+                "y": 362,
+                "x": 198,
+                "w": 393,
+                "h": 23
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "hbar",
+        "question_id": 95276
+    },
+    {
+        "image_index": 9382,
+        "qid": "S6",
+        "question_string": "How many bars are there ?",
+        "answer_bbox": [
+            {
+                "y": 521,
+                "x": 141,
+                "w": 45,
+                "h": 54
+            },
+            {
+                "y": 164,
+                "x": 141,
+                "w": 48,
+                "h": 54
+            },
+            {
+                "y": 467,
+                "x": 141,
+                "w": 378,
+                "h": 54
+            },
+            {
+                "y": 110,
+                "x": 141,
+                "w": 430,
+                "h": 54
+            },
+            {
+                "y": 414,
+                "x": 141,
+                "w": 898,
+                "h": 54
+            },
+            {
+                "y": 56,
+                "x": 141,
+                "w": 952,
+                "h": 54
+            }
+        ],
+        "template": "structural",
+        "answer": 6,
+        "answer_id": 34,
+        "type": "hbar",
+        "question_id": 95216
+    },
+    {
+        "image_index": 13562,
+        "qid": "S14",
+        "question_string": "How many bars are there on the 3rd tick from the bottom ?",
+        "answer_bbox": [
+            {
+                "y": 337,
+                "x": 190,
+                "w": 654,
+                "h": 17
+            },
+            {
+                "y": 320,
+                "x": 190,
+                "w": 655,
+                "h": 17
+            },
+            {
+                "y": 303,
+                "x": 190,
+                "w": 650,
+                "h": 17
+            },
+            {
+                "y": 286,
+                "x": 190,
+                "w": 648,
+                "h": 17
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "hbar",
+        "question_id": 95193
+    },
+    {
+        "image_index": 17489,
+        "qid": "M6",
+        "question_string": "In which year was the percentage of obese female children maximum?",
+        "answer_bbox": {
+            "y": 591,
+            "x": 958,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2007",
+        "answer_id": 534,
+        "type": "line",
+        "question_id": 10637
+    },
+    {
+        "image_index": 9466,
+        "qid": "M4",
+        "question_string": "Across all countries, what is the maximum electricity production in in 1962 ?",
+        "answer_bbox": {
+            "y": 572,
+            "x": 111,
+            "w": 1138,
+            "h": 15
+        },
+        "template": "min_max",
+        "answer": 97.78588394977942,
+        "answer_id": 84533,
+        "type": "hbar",
+        "question_id": 131958
+    },
+    {
+        "image_index": 25327,
+        "qid": "D15",
+        "question_string": "What is the percentage of amount earned from merchandise exports in Uzbekistan in 2000 ?",
+        "answer_bbox": {
+            "y": 497,
+            "x": 173,
+            "w": 33,
+            "h": 134
+        },
+        "template": "data_retrieval",
+        "answer": 0.203132359839525,
+        "answer_id": 208098,
+        "type": "vbar",
+        "question_id": 331155
+    },
+    {
+        "image_index": 29095,
+        "qid": "M7",
+        "question_string": "In which country was the proportion of the male population that is economically active in 1983 minimum?",
+        "answer_bbox": {
+            "y": 616,
+            "x": 793,
+            "w": 14,
+            "h": 31.796875
+        },
+        "template": "min_max",
+        "answer": "Israel",
+        "answer_id": 51519,
+        "type": "vbar",
+        "question_id": 193617
+    },
+    {
+        "image_index": 31073,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 45.530312500000015,
+            "w": 402.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Number of start-up procedures to register a property",
+        "answer_id": 29287,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 29333,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 215,
+            "x": 7,
+            "w": 19,
+            "h": 194.09375
+        },
+        "template": "data_retrieval",
+        "answer": "Value added (% of GDP)",
+        "answer_id": 28880,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 29930,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 150,
+            "x": 7,
+            "w": 19,
+            "h": 187.96875
+        },
+        "template": "data_retrieval",
+        "answer": "Coal rent(as % of GDP)",
+        "answer_id": 30763,
+        "type": "vbar",
+        "question_id": 35
+    },
+    {
+        "image_index": 13600,
+        "qid": "M7",
+        "question_string": "In which year was the amount collected as tax on revenue minimum?",
+        "answer_bbox": {
+            "y": 514,
+            "x": 27,
+            "w": 24.4375,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": "1994",
+        "answer_id": 416,
+        "type": "hbar",
+        "question_id": 203337
+    },
+    {
+        "image_index": 13062,
+        "qid": "M5",
+        "question_string": "Across all years, what is the minimum value added by the industrial sector to the total GDP in Czech Republic ?",
+        "answer_bbox": {
+            "y": 372,
+            "x": 62,
+            "w": 1071,
+            "h": 22
+        },
+        "template": "min_max",
+        "answer": 36.771144205797,
+        "answer_id": 114168,
+        "type": "hbar",
+        "question_id": 195765
+    },
+    {
+        "image_index": 28925,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 105.05062500000003,
+            "w": 460.9,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Total imports of goods and services from different countries",
+        "answer_id": 32604,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 2794,
+        "qid": "D11",
+        "question_string": "What is the label or title of the X-axis ?",
+        "answer_bbox": {
+            "y": 677.1525,
+            "x": 585,
+            "w": 44.015625,
+            "h": 19
+        },
+        "template": "data_retrieval",
+        "answer": "Years",
+        "answer_id": 152,
+        "type": "dot",
+        "question_id": 34
+    },
+    {
+        "image_index": 28542,
+        "qid": "D1",
+        "question_string": "What does the 4th bar from the right in Male represents ?",
+        "answer_bbox": {
+            "y": 280,
+            "x": 1165,
+            "w": 59,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Low income",
+        "answer_id": 51992,
+        "type": "vbar",
+        "question_id": 371172
+    },
+    {
+        "image_index": 8884,
+        "qid": "M4",
+        "question_string": "Across all countries, what is the maximum percentage of unemployed females in in 1991 ?",
+        "answer_bbox": {
+            "y": 89,
+            "x": 141,
+            "w": 911,
+            "h": 14
+        },
+        "template": "min_max",
+        "answer": 21.89999961853031,
+        "answer_id": 28856,
+        "type": "hbar",
+        "question_id": 137528
+    },
+    {
+        "image_index": 12089,
+        "qid": "M5",
+        "question_string": "Across all years, what is the minimum net enrolment rate of females in primary schools in Caribbean small states ?",
+        "answer_bbox": {
+            "y": 123,
+            "x": 62,
+            "w": 679,
+            "h": 22
+        },
+        "template": "min_max",
+        "answer": 91.68518829345699,
+        "answer_id": 106210,
+        "type": "hbar",
+        "question_id": 181621
+    },
+    {
+        "image_index": 19625,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 641,
+                "x": 126,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 332,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 538,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 744,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 950,
+                "w": 14,
+                "h": 27.9375
+            }
+        ],
+        "template": "structural",
+        "answer": 5,
+        "answer_id": 53,
+        "type": "line",
+        "question_id": 24
+    },
+    {
+        "image_index": 24736,
+        "qid": "D1",
+        "question_string": "What does the 3rd bar from the right in Middle East & North Africa (all income levels) represents ?",
+        "answer_bbox": {
+            "y": 669,
+            "x": 35,
+            "w": 28,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "1980",
+        "answer_id": 3311,
+        "type": "vbar",
+        "question_id": 319693
+    },
+    {
+        "image_index": 22436,
+        "qid": "M6",
+        "question_string": "In which year was the official aid received maximum?",
+        "answer_bbox": {
+            "y": 551,
+            "x": 701,
+            "w": 14,
+            "h": 27.9375
+        },
+        "template": "min_max",
+        "answer": "2001",
+        "answer_id": 96,
+        "type": "vbar",
+        "question_id": 3901
+    },
+    {
+        "image_index": 30595,
+        "qid": "S1",
+        "question_string": "Does the graph contain grids ?",
+        "answer_bbox": [
+            {
+                "y": 34,
+                "x": 148,
+                "w": 4,
+                "h": 556
+            },
+            {
+                "y": 34,
+                "x": 309,
+                "w": 4,
+                "h": 556
+            },
+            {
+                "y": 34,
+                "x": 469,
+                "w": 4,
+                "h": 556
+            },
+            {
+                "y": 34,
+                "x": 630,
+                "w": 4,
+                "h": 556
+            },
+            {
+                "y": 492,
+                "x": 61,
+                "w": 636,
+                "h": 4
+            },
+            {
+                "y": 396,
+                "x": 61,
+                "w": 636,
+                "h": 4
+            },
+            {
+                "y": 299,
+                "x": 61,
+                "w": 636,
+                "h": 4
+            },
+            {
+                "y": 203,
+                "x": 61,
+                "w": 636,
+                "h": 4
+            },
+            {
+                "y": 106,
+                "x": 61,
+                "w": 636,
+                "h": 4
+            }
+        ],
+        "template": "structural",
+        "answer": "Yes",
+        "answer_id": 1,
+        "type": "vbar",
+        "question_id": 28
+    },
+    {
+        "image_index": 20541,
+        "qid": "D12",
+        "question_string": "What is the label or title of the Y-axis ?",
+        "answer_bbox": {
+            "y": 281,
+            "x": 7,
+            "w": 19,
+            "h": 104.78125
+        },
+        "template": "data_retrieval",
+        "answer": "BoP (in US$)",
+        "answer_id": 12726,
+        "type": "line",
+        "question_id": 35
+    },
+    {
+        "image_index": 8407,
+        "qid": "S14",
+        "question_string": "How many bars are there on the 1st tick from the bottom ?",
+        "answer_bbox": [
+            {
+                "y": 560,
+                "x": 62,
+                "w": 588,
+                "h": 14
+            },
+            {
+                "y": 546,
+                "x": 62,
+                "w": 601,
+                "h": 14
+            },
+            {
+                "y": 532,
+                "x": 62,
+                "w": 274,
+                "h": 14
+            }
+        ],
+        "template": "structural",
+        "answer": 3,
+        "answer_id": 38,
+        "type": "hbar",
+        "question_id": 95220
+    },
+    {
+        "image_index": 27075,
+        "qid": "D9",
+        "question_string": "What is the title of the graph ?",
+        "answer_bbox": {
+            "y": 9,
+            "x": 97.36781250000001,
+            "w": 402.5,
+            "h": 18
+        },
+        "template": "data_retrieval",
+        "answer": "Net official aid flows in a country from UN agencies",
+        "answer_id": 13226,
+        "type": "vbar",
+        "question_id": 32
+    },
+    {
+        "image_index": 20053,
+        "qid": "S6",
+        "question_string": "How many lines are there ?",
+        "answer_bbox": [
+            {
+                "y": 262,
+                "x": 154,
+                "w": 135,
+                "h": 168
+            },
+            {
+                "y": 72,
+                "x": 289,
+                "w": 135,
+                "h": 358
+            },
+            {
+                "y": 72,
+                "x": 424,
+                "w": 136,
+                "h": 392
+            },
+            {
+                "y": 464,
+                "x": 560,
+                "w": 135,
+                "h": 275
+            },
+            {
+                "y": 510,
+                "x": 695,
+                "w": 135,
+                "h": 229
+            },
+            {
+                "y": 510,
+                "x": 830,
+                "w": 135,
+                "h": 81
+            },
+            {
+                "y": 591,
+                "x": 965,
+                "w": 135,
+                "h": 53
+            },
+            {
+                "y": 421,
+                "x": 154,
+                "w": 135,
+                "h": 144
+            },
+            {
+                "y": 192,
+                "x": 289,
+                "w": 135,
+                "h": 373
+            },
+            {
+                "y": 192,
+                "x": 424,
+                "w": 136,
+                "h": 401
+            },
+            {
+                "y": 593,
+                "x": 560,
+                "w": 135,
+                "h": 199
+            },
+            {
+                "y": 647,
+                "x": 695,
+                "w": 135,
+                "h": 145
+            },
+            {
+                "y": 647,
+                "x": 830,
+                "w": 135,
+                "h": 34
+            },
+            {
+                "y": 681,
+                "x": 965,
+                "w": 135,
+                "h": 53
+            },
+            {
+                "y": 630,
+                "x": 154,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 630,
+                "x": 289,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 630,
+                "x": 424,
+                "w": 136,
+                "h": 0
+            },
+            {
+                "y": 630,
+                "x": 560,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 630,
+                "x": 695,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 630,
+                "x": 830,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 630,
+                "x": 965,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 608,
+                "x": 154,
+                "w": 135,
+                "h": 19
+            },
+            {
+                "y": 608,
+                "x": 289,
+                "w": 135,
+                "h": 15
+            },
+            {
+                "y": 620,
+                "x": 424,
+                "w": 136,
+                "h": 3
+            },
+            {
+                "y": 620,
+                "x": 560,
+                "w": 135,
+                "h": 0
+            },
+            {
+                "y": 620,
+                "x": 695,
+                "w": 135,
+                "h": 4
+            },
+            {
+                "y": 624,
+                "x": 830,
+                "w": 135,
+                "h": 5
+            },
+            {
+                "y": 622,
+                "x": 965,
+                "w": 135,
+                "h": 7
+            }
+        ],
+        "template": "structural",
+        "answer": 4,
+        "answer_id": 12,
+        "type": "line",
+        "question_id": 235811
+    },
+    {
+        "image_index": 5994,
+        "qid": "D2",
+        "question_string": "What does the 1st bar from the top in Pacific island small states represents ?",
+        "answer_bbox": {
+            "y": 303,
+            "x": 1111,
+            "w": 46,
+            "h": 20
+        },
+        "template": "data_retrieval",
+        "answer": "Under five",
+        "answer_id": 51550,
+        "type": "hbar",
+        "question_id": 100866
+    },
+    {
+        "image_index": 2110,
+        "qid": "S5",
+        "question_string": "How many years are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 641,
+                "x": 82,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 225,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 367,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 510,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 653,
+                "w": 14,
+                "h": 27.9375
+            },
+            {
+                "y": 641,
+                "x": 796,
+                "w": 14,
+                "h": 27.9375
+            }
+        ],
+        "template": "structural",
+        "answer": 6,
+        "answer_id": 34,
+        "type": "dot",
+        "question_id": 24
+    },
+    {
+        "image_index": 24246,
+        "qid": "S5",
+        "question_string": "How many countries are there in the graph ?",
+        "answer_bbox": [
+            {
+                "y": 491,
+                "x": 107,
+                "w": 14,
+                "h": 31.703125
+            },
+            {
+                "y": 491,
+                "x": 254,
+                "w": 14,
+                "h": 44.046875
+            },
+            {
+                "y": 491,
+                "x": 402,
+                "w": 14,
+                "h": 118.96875
+            },
+            {
+                "y": 491,
+                "x": 549,
+                "w": 14,
+                "h": 48.640625
+            },
+            {
+                "y": 491,
+                "x": 696,
+                "w": 14,
+                "h": 40.703125
+            },
+            {
+                "y": 491,
+                "x": 843,
+                "w": 14,
+                "h": 91.171875
+            }
+        ],
+        "template": "structural",
+        "answer": 6,
+        "answer_id": 34,
+        "type": "vbar",
+        "question_id": 95239
+    }
+]
