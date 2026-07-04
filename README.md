@@ -4,7 +4,7 @@ Code for generating and evaluating attention-based visual explanations (heatmaps
 vision-language models answering questions about charts.
 
 Refactored from the original notebook (`test.ipynb`) into a single runnable script,
-`llava_attention_demo.py`. All functions are preserved as-is (same logic, same math) —
+`llava_attention_demo.py`. All functions are preserved as-is (same logic, same math),
 the only changes are:
 
 - organizing the code into functions/CLI subcommands instead of top-to-bottom cells
@@ -18,23 +18,23 @@ Example input chart and the resulting per-generated-token attention heatmap grid
 
 ### ⚠️ Before this will run
 
-Two dependencies are used but not defined inside the script itself — they need to be
+Two dependencies are used but not defined inside the script itself, they need to be
 made importable next to it:
 
-1. **The `llava` package** — from [haotian-liu/LLaVA][2]. Clone it and either:
+1. **The `llava` package**, from [haotian-liu/LLaVA][2]. Clone it and either:
    - `pip install -e .` from inside the cloned repo, or
    - put the repo's `llava/` folder on your `PYTHONPATH` / next to this script (the
      original notebook did `sys.path.append("./models")`, so a `models/llava/...`
-     layout also works — just adjust `sys.path` at the top of
+     layout also works, just adjust `sys.path` at the top of
      `llava_attention_demo.py` if you use that layout)
 
-2. **`utils.py`** — providing `load_image`, `aggregate_llm_attention`,
+2. **`utils.py`**, providing `load_image`, `aggregate_llm_attention`,
    `aggregate_vit_attention`, `heterogenous_stack`, `show_mask_on_image`. Copy it into
    this same folder (or add its location to `PYTHONPATH`). Only the `batch`
    subcommand needs it.
 
 Without these two, `sensitivity` will fail at the `from llava...` imports, and `batch`
-will fail at both the `llava` and `utils` imports. `metrics` needs neither — it's pure
+will fail at both the `llava` and `utils` imports. `metrics` needs neither, it's pure
 numpy.
 
 ### Requirements
@@ -49,7 +49,7 @@ uninstall/reinstall cells, to avoid `numpy`/`opencv` ABI conflicts) alongside
 `accelerate`, `einops`, `huggingface_hub`, `jsonlines`, `rich`, `sentencepiece`,
 `timm==0.9.10`, `transformers>=4.38.1`, `opencv-python`, `seaborn`, and `matplotlib`.
 
-A CUDA GPU is effectively required — the code loads the 7B model in fp16. CPU-only
+A CUDA GPU is effectively required, the code loads the 7B model in fp16. CPU-only
 execution is unsupported by the underlying LLaVA loading code as written.
 
 ### Usage
@@ -110,7 +110,7 @@ one heatmap panel per generated answer token.
 
 If saliency maps have already been saved as `.npy` files (e.g. via
 `np.save(f"token_{i}.npy", attn_over_image.cpu().numpy())`), the diagnostics can be run
-standalone — no model or GPU needed:
+standalone, no model or GPU needed:
 
 ```bash
 python llava_attention_demo.py metrics token_0.npy token_1.npy token_2.npy
@@ -124,7 +124,7 @@ python llava_attention_demo.py metrics token_0.npy token_1.npy token_2.npy
 
 ### What changed vs. the notebook, functionally
 
-Nothing — the math in every function (`load_pretrained_model1`,
+Nothing, the math in every function (`load_pretrained_model1`,
 `add_noise_to_image`, `get_heatmap_from_attention`, `compute_heatmap_distance`, the
 sparsity/minimality metrics, the attention aggregation loop) is copied verbatim from
 the notebook cells, just wrapped in functions and given a CLI. The `!pip install ...`
@@ -141,3 +141,5 @@ BSD
 - [LLaVA][2] (`liuhaotian/llava-v1.5-7b`)
 
 [2]: https://github.com/haotian-liu/LLaVA
+
+
