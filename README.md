@@ -57,7 +57,7 @@ execution is unsupported by the underlying LLaVA loading code as written.
 #### Input-noise sensitivity test (single image)
 
 ```bash
-python llava_attention_demo.py sensitivity \
+python demo.py sensitivity \
     --model-path liuhaotian/llava-v1.5-7b \
     --image path/to/image.png \
     --question "What is shown in this chart?" \
